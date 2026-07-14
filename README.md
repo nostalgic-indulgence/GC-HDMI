@@ -2,7 +2,7 @@
 
 This fork of the original project covers both DOL-001 and DOL-101 GameCube Consoles. All credits goes to @citrus3000psi for the hardware execution and @ikorb for the GCVideo software implementation.
 
-GCVideo v3.1 should be the final version of the firmware as it hasn't been updated for many years. I have included it in this depository as well for you to flash it onto the M25P40 Nor Flash Memory Chip easily using any of the modern day XGecu Programmers such as the T48/T56/T76. Just be mindful to flash the firmware into the FLASH portion of the chip!
+GCVideo v3.1 should be the final version of the firmware as it hasn't been updated for many years. I have included it in this depository as well for you to flash it onto the M25P40 Nor Flash Memory Chip easily using any of the modern day XGecu Programmers such as the T48/T56/T76 and a SOP8>DIP8 150mil Adapter. Just be mindful to flash the firmware into the FLASH portion of the chip!
 
 ## DOL-001
 This will be a 1:1 adaption of the original project.
