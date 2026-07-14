@@ -7,8 +7,8 @@ This will be a 1:1 adaption of the original project.
 
 The project consists of 3 separate boards:-
 1. GCHDMI Main Board v4.1
-2. Digital Port Breakout Board v4.0
-3. HDMI Breakout Board (New)
+2. HDMI Breakout Board (New)
+3. Digital Port Breakout Board v4.0
 
 ### 1. GCHDMI Main Board v4.1
 <ins>**PCB Thickness: 0.8mm**</ins>
@@ -28,12 +28,31 @@ The project consists of 3 separate boards:-
 
 All SMD capacitors (MLCC)/resistors are 0603. Make sure to use caps rated 6.3v or higher.
 
-### 2. Digital Port Breakout Board v4.0
-<ins>**PCB Thickness: 2.0mm**</ins>
-
-### 3. HDMI Breakout Board (New)
+### 2. HDMI Breakout Board (New)
 <ins>**PCB Thickness: 1.6mm**</ins>
 
 - HDMI-C Connector  :  XUNPU HDMI-201 x 01 (LCSC)
 - FCC Connector     :  20-Pin, 0.5mm Pitch, Side Contact, Vertical Mount x 01
 - TVS Diode         :  TPD4S010DQAR / TPD4E02B04DQAR USON10 4-Channel ESR Protection Diode x 03
+
+### 3. Digital Port Breakout Board v4.0
+<ins>**PCB Thickness: 2.0mm**</ins>
+
+## DOL-101
+This section will be a combination of both the Digital AV Port and GCHDMI projects to create a solution for the Analog AV Port only DOL-101.
+
+The project consists of 3 separate boards:-
+1. GCHDMI Main Board v4.1
+2. HDMI Breakout Board (New)
+3. Digital AV Port Flex QSB
+
+### 1. GCHDMI Main Board v4.1
+Same as above for DOL-001.
+
+### 2. HDMI Breakout Board (New)
+Same as above for DOL-001.
+
+### 3. Digital AV Port Flex QSB
+<ins>**Flex QSB Thickness: 0.12mm**</ins>
+
+Please make use of the Digital AV Flex Mapping excel sheet as reference to route the corresponding wires between the Flex QSB and the GCHDMI Main Board. Until the day when someone decides to create a modified Flex QSB that interfaces with GCHDMI Main Board perfectly, this solution will serve its purpose well. The Mappings excel sheet is kinda rough currently but all the signal points have been carefuuly mapped out.
