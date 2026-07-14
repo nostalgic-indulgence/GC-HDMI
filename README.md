@@ -27,6 +27,7 @@ The project consists of 3 separate boards:-
 - U3     :  TPS74012DGKR MSOP8 LDO x 01 (AliExpress/Mouser)
 - U4     :  M25P40-VMN6PB / M25P40-VMN6TPB SOP8 NOR FLASH MEMORY x 01 (AliExpress)
 - FFC Connector  :  20-Pin, 0.5mm Pitch, Bottom Contact, Right-Angle Mount x 01
+- FFC Flex Cable :  20-Pin, 0.5mm Pitch, Same-Sided, 150mm / 200mm
 
 All SMD capacitors (MLCC)/resistors are 0603. Make sure to use caps rated 6.3v or higher.
 
