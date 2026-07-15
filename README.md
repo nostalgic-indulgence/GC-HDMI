@@ -25,7 +25,7 @@ The project consists of 3 separate boards:-
 - U1     :  XC3S200A-4VQG100C / XC3S200A-4VQG100I / XC3S200A-5VQG100C QFP FPGA x 01 (AliExpress)
 - U2     :  MIC3975-5.0YMM MSOP8 LDO x 01 (AliExpress/Mouser)
 - U3     :  TPS74012DGKR MSOP8 LDO x 01 (AliExpress/Mouser)
-- U4     :  M25P40-VMN6PB / M25P40-VMN6TPB SOP8 NOR FLASH MEMORY x 01 (AliExpress)
+- U4     :  M25P40-VMN6PB / M25P40-VMN6TPB / MX25V4006EM1I-13 SOP8 NOR FLASH MEMORY x 01 (AliExpress/DigiKey/Mouser)
 - FFC Connector  :  20-Pin, 0.5mm Pitch, Bottom Contact, Right-Angle Mount x 01
 - FFC Flex Cable :  20-Pin, 0.5mm Pitch, Same-Sided, 150mm / 200mm
 
