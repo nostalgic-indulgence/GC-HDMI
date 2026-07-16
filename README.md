@@ -15,7 +15,7 @@ The project consists of 3 separate boards:-
 ### 1. GCHDMI Main Board v4.1
 <ins>**PCB Thickness: 0.8mm**</ins>
 
-- C1,C2,C3,C4,C5,C6,C10,C11,C12,C13,C14  :  0.1uF MLCC x 11
+- C1,C2,C3,C4,C5,C6,C10,C11,C12,C13,C14  :  0.1uF 0603 MLCC x 11
 - C8     :  10uF 0603 MLCC x 01
 - C9     :  4.7uF 0603 MLCC x 01
 - R3,R4  :  4k7Ω 0603 Resistor x 02
