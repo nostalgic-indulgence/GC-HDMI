@@ -59,5 +59,6 @@ Same as above for DOL-001.
 ### 3. Digital AV Port Flex QSB
 <ins>**Flex QSB Thickness: 0.12mm**</ins>
 
-Please make use of the Digital AV Flex Mapping excel sheet in the PCB folder as reference to route the corresponding connections between the Flex QSB and the GCHDMI Main Board. Till the day someone who's savvy enough to create a modified Flex QSB that interfaces with the GCHDMI Main Board perfectly, this solution will serve its purpose well enough. The Mappings excel sheet is kinda rough currently but all the signal points have been carefully matched and mapped out.
-*** Remember to pull CableDetect High to 3v3 on the Flex Cable. i.e. bridge CDET to 3v3
+Please make use of the Digital AV Flex Mapping excel sheet in the PCB folder as reference to route the corresponding connections between the Flex QSB and the GCHDMI Main Board. Till the day someone who's savvy enough to create a modified Flex QSB that interfaces with the GCHDMI Main Board perfectly, this solution will serve its purpose well enough. The Mappings excel sheet is kinda rough currently but all the signal points have been carefully matched and mapped out.  
+  
+  *** Remember to pull CableDetect High to 3v3 on the Flex Cable to enable 480p options. i.e. bridge CDET to 3v3
