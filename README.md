@@ -21,11 +21,11 @@ The project consists of 3 separate boards:-
 - R3,R4  :  4k7Ω 0603 Resistor x 02
 - R2     :  330Ω 0603 Resistor x 01
 - R5     :  180Ω 0603 Resistor x 01
-- R7,R6  :  10kΩ 0603 Resistor x 02
+- R6,R7  :  10kΩ 0603 Resistor x 02
 - U1     :  XC3S200A-4VQG100C / XC3S200A-4VQG100I / XC3S200A-5VQG100C QFP FPGA x 01 (AliExpress)
-- U2     :  MIC3975-5.0YMM MSOP8 LDO x 01 (AliExpress/Mouser)
-- U3     :  TPS74012DGKR MSOP8 LDO x 01 (AliExpress/Mouser)
-- U4     :  M25P40-VMN6PB / M25P40-VMN6TPB / MX25V4006EM1I-13 SOP8 NOR FLASH MEMORY x 01 (AliExpress/DigiKey/Mouser)
+- U2     :  MIC3975-5.0YMM MSOP-8 LDO x 01 (AliExpress/Mouser)
+- U3     :  TPS74012DGKR MSOP-8 LDO x 01 (AliExpress/Mouser)
+- U4     :  M25P40-VMN6PB / M25P40-VMN6TPB / MX25V4006EM1I-13 SOP-8 NOR FLASH MEMORY x 01 (AliExpress/DigiKey/Mouser)
 - FFC Connector  :  20-Pin, 0.5mm Pitch, Bottom Contact, Right-Angle Mount x 01
 - FFC Flex Cable :  20-Pin, 0.5mm Pitch, Same-Sided, 150mm / 200mm
 
@@ -36,7 +36,7 @@ All SMD capacitors (MLCC)/resistors are 0603. Make sure to use caps rated 6.3v o
 
 - HDMI-C Connector  :  XUNPU HDMI-201 x 01 (LCSC)
 - FCC Connector     :  20-Pin, 0.5mm Pitch, Side Contact, Vertical Mount x 01
-- TVS Diode         :  TPD4S010DQAR / TPD4E02B04DQAR USON10 4-Channel ESR Protection Diode x 03
+- TVS Diode         :  TPD4S010DQAR / TPD4E02B04DQAR USON-10 4-Channel ESR Protection Diode x 03
 - M2.5 x 6 mmm Pan/Flat Head Screw w/ Nut for fastening to the backplate mount
 
 ### 3. Digital Port Breakout Board v4.0
