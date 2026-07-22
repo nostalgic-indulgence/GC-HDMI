@@ -37,7 +37,7 @@ All SMD capacitors (MLCC)/resistors are 0603. Make sure to use caps rated 6.3v o
 - HDMI-C Connector  :  XUNPU HDMI-201 x 01 (LCSC)
 - FCC Connector     :  20-Pin, 0.5mm Pitch, Side Contact, Vertical Mount x 01
 - TVS Diode         :  TPD4S010DQAR / TPD4E02B04DQAR USON-10 4-Channel ESR Protection Diode x 03
-- M2.5 x 6 mmm Pan/Flat Head Screw w/ Nut for fastening to the backplate mount
+- M2.5 x 6 mm Pan/Flat Head Screw w/ Nut for fastening to the backplate mount
 
 ### 3. Digital Port Breakout Board v4.0
 <ins>**PCB Thickness: 2.0mm**</ins>
