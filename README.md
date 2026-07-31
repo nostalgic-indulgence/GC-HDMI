@@ -13,6 +13,9 @@ The project consists of 3 separate boards:-
 3. Digital Port Breakout Board v4.0
 
 ### 1. GCHDMI Main Board v4.1
+  
+![PCB](https://github.com/nostalgic-indulgence/GC-HDMI/blob/main/PCB/MAIN%20BOARD%20v4.1/TOP.png)
+  
 <ins>**PCB Thickness: 0.8mm**</ins>
 
 - C1,C2,C3,C4,C5,C6,C10,C11,C12,C13,C14  :  0.1uF 0603 MLCC x 11
@@ -32,6 +35,9 @@ The project consists of 3 separate boards:-
 All SMD capacitors (MLCC)/resistors are 0603. Make sure to use caps rated 6.3v or higher.
 
 ### 2. HDMI Breakout Board (New)
+  
+![PCB](https://github.com/nostalgic-indulgence/GC-HDMI/blob/main/PCB/HDMI%20BOARD%20(NEW)/TOP.png)
+  
 <ins>**PCB Thickness: 1.6mm**</ins>
 
 - HDMI-C Connector  :  XUNPU HDMI-201 x 01 (LCSC)
@@ -40,6 +46,9 @@ All SMD capacitors (MLCC)/resistors are 0603. Make sure to use caps rated 6.3v o
 - M2.5 x 6 mm Pan/Flat Head Screw w/ Nut for fastening to the backplate mount
 
 ### 3. Digital Port Breakout Board v4.0
+  
+![PCB](https://github.com/nostalgic-indulgence/GC-HDMI/blob/main/PCB/BREAKOUT%20BOARD%20v4.0/TOP.png)
+  
 <ins>**PCB Thickness: 2.0mm**</ins>
 
 ## DOL-101
@@ -57,6 +66,9 @@ Same as above for DOL-001.
 Same as above for DOL-001.
 
 ### 3. Digital AV Port Flex QSB
+  
+![FLEX](https://github.com/nostalgic-indulgence/GC-HDMI/blob/main/PCB/DOL-101/TOP.png)
+  
 <ins>**Flex QSB Thickness: 2.0mm**</ins>
 
 Please make use of the Digital AV Flex Mapping excel sheet in the PCB folder as reference to route the corresponding connections between the Flex QSB and the GCHDMI Main Board. Till the day someone who's savvy enough to create a modified Flex QSB that interfaces with the GCHDMI Main Board perfectly, this solution will serve its purpose well enough. The Mappings excel sheet is kinda rough currently but all the signal points have been carefully matched and mapped out.  
